@@ -3,6 +3,7 @@ Created a very cool game called SPACE INVADERS using C++ Raylib Library.
 ![image](https://github.com/user-attachments/assets/42002291-d681-4648-891f-61d3471e4aa6)
 
 Key Features:
+
   • Added 3 lives for the player  
   
   • Different types of Aliens which will give different points
